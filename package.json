@@ -40,7 +40,8 @@
     "./client": {
       "types": "./build/client/client/index.d.ts",
       "default": "./build/client.js"
-    }
+    },
+    "./package.json": "./package.json"
   },
   "dsh": {
     "engines": {
